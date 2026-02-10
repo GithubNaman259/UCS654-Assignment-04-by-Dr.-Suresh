@@ -36,9 +36,9 @@ Where:
 -   a_r = 0.5 \* (r mod 7)
 -   b_r = 0.3 \* ((r mod 5) + 1)
 
-**Roll Number:** 102317229 (here)
+**Roll Number: 102317229 (here)**
 
-### Computed Parameters
+**Computed Parameters:**
 -  a_r = 0.0
 -  b_r = 1.5
 
